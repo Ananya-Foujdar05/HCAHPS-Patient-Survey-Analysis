@@ -3,7 +3,7 @@
 ## Table of Content:
 + Problem Statement
 + Data Source
-+ Data Praperation
++ Data Preparation
 + Data Visualization
 + Insight
 
@@ -15,9 +15,10 @@ MY task is to evaluate whether the HCAHPS survey has been successful in accompli
 + Are there any major areas of opportunity remaining?
 + What recommendations can you make to hospitals to help them further improve the patient experience?
 
-## Data Source: 
+## Data Source: [Data Set](https://github.com/Ananya-Foujdar05/HCAHPS-Patient-Survey-Analysis/blob/main/HCAHPS%2BPatient%2BSurvey.rar)
 
-## Data Praperation:
+
+## Data Preparation:
 + Use Power Query Editor within Power BI to clean and preprocess the collected data. This involves handling missing values, Replacing values, and ensuring data consistency.
 + Develop an effective data model that allows for the exploration of trends, patterns, and correlations within the HCAHPS survey data. This involves creating relationships between different data tables and establishing calculated measures for deeper insights.
 
